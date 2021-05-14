@@ -52,7 +52,6 @@ for (var i=0 ; i < names.length ; i++) {
   // var firstLetter =
 
 var firstLetter = names[i][0];
-print(firstLetter);
 
   // STEP 12:
   // Compare the 'firstLetter' retrieved in STEP 11 to lower case
